@@ -15,7 +15,7 @@ variables:
   webAppName: ''
 
   # Environment name
-  environmentName: ''
+  environmentName: 'nome do ambiente'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
